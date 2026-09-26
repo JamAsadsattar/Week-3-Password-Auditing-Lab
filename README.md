@@ -139,13 +139,13 @@ This practical strengthened my understanding of password security and offensive 
 ## 📸 7. Screenshots
 
 ### Screenshot 1 — PDF 1
-![Hash Extraction](images/pdf-hash-extraction.png)
+![Hash Extraction](Hash%20Extraction.png)
 
 ### Screenshot 2 — PDF 2
-![John the Ripper](images/john-the-ripper.png)
+![John the Ripper](John%20the%20Ripper.png)
 
 ### Screenshot 3 — PDF 3
-![Password Recovery](images/password-recovery.png)
+![Password Recovery](pdf3%20cracked.png)
 
 > Note: Update the image paths above to match your actual screenshot filenames in the `images/` folder.
 
@@ -156,9 +156,9 @@ This practical strengthened my understanding of password security and offensive 
 Week-3-Password-Auditing-Lab/
 │
 ├── README.md
-├── pdf-hash-extraction.png
-├── john-the-ripper.png
-└── password-recovery.png
+├── Hash Extraction.png
+├── John the Ripper.png
+└── pdf3 cracked.png
 
 ---
 
